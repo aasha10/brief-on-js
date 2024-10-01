@@ -1,0 +1,1 @@
+var a = prompt("Whats your favorite color?")
